@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+motor
+pydantic[extra]
+python-jose
+passlib
+python-dotenv
